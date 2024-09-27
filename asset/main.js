@@ -170,7 +170,7 @@ $(document).ready(function () {
                     $('.sa').fadeIn()
                 }, 2200)
                 $.stopSound();
-                $.playSound('asset/musik/ultah.mp3');
+                $.playSound('asset/musik/happy%20Birthday%20versi%20BT21%F0%9F%A4%97%F0%9F%98%82%20%23bt21%F0%9F%99%8F%23hutri75.mp3.mp3');
                 confetti.start();
             }
 
