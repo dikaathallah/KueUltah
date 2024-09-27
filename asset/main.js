@@ -14,7 +14,7 @@ $(document).ready(function () {
     const detik_ = $("#detik");
 
     // Tanggal dan Waktu
-    let ultah = "Sept 27, 2024 21:00:00";
+    let ultah = "Sept 27, 2024 00:00:00";
     let hitungMundur = new Date(ultah).getTime();
     let x = setInterval(function () {
         let sekarang = new Date().getTime();
